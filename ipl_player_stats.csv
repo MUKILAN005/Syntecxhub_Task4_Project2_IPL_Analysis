@@ -1,0 +1,433 @@
+Season,MatchID,Team,Player,Runs,BallsFaced,Wickets
+2021,1,Royal Challengers Bengaluru,C. Reddy,37,41,2
+2021,1,Royal Challengers Bengaluru,H. Shah,84,83,0
+2021,1,Royal Challengers Bengaluru,B. Khan,31,27,1
+2021,1,Rajasthan Royals,N. Mehta,32,19,0
+2021,1,Rajasthan Royals,T. Joshi,81,49,1
+2021,1,Rajasthan Royals,S. Jain,17,9,0
+2021,2,Mumbai Indians,S. Patel,42,32,0
+2021,2,Mumbai Indians,M. Rao,39,33,2
+2021,2,Mumbai Indians,K. Nair,60,42,2
+2021,2,Sunrisers Hyderabad,F. Ali,18,12,1
+2021,2,Sunrisers Hyderabad,G. Menon,64,37,0
+2021,2,Sunrisers Hyderabad,L. Thomas,55,49,0
+2021,3,Sunrisers Hyderabad,F. Ali,47,35,0
+2021,3,Sunrisers Hyderabad,G. Menon,51,52,2
+2021,3,Sunrisers Hyderabad,L. Thomas,27,15,2
+2021,3,Kolkata Knight Riders,D. Singh,46,60,0
+2021,3,Kolkata Knight Riders,P. Das,35,38,2
+2021,3,Kolkata Knight Riders,A. Roy,71,55,0
+2021,4,Kolkata Knight Riders,D. Singh,21,19,2
+2021,4,Kolkata Knight Riders,P. Das,74,47,0
+2021,4,Kolkata Knight Riders,A. Roy,1,1,0
+2021,4,Sunrisers Hyderabad,F. Ali,2,1,0
+2021,4,Sunrisers Hyderabad,G. Menon,60,42,0
+2021,4,Sunrisers Hyderabad,L. Thomas,39,39,1
+2021,5,Chennai Super Kings,A. Kumar,62,41,2
+2021,5,Chennai Super Kings,R. Iyer,50,55,0
+2021,5,Chennai Super Kings,V. Sharma,19,13,0
+2021,5,Royal Challengers Bengaluru,C. Reddy,6,3,2
+2021,5,Royal Challengers Bengaluru,H. Shah,39,24,0
+2021,5,Royal Challengers Bengaluru,B. Khan,40,53,1
+2021,6,Chennai Super Kings,A. Kumar,61,77,0
+2021,6,Chennai Super Kings,R. Iyer,69,49,0
+2021,6,Chennai Super Kings,V. Sharma,28,21,0
+2021,6,Kolkata Knight Riders,D. Singh,73,82,0
+2021,6,Kolkata Knight Riders,P. Das,6,4,1
+2021,6,Kolkata Knight Riders,A. Roy,75,66,1
+2021,7,Mumbai Indians,S. Patel,9,5,0
+2021,7,Mumbai Indians,M. Rao,29,23,0
+2021,7,Mumbai Indians,K. Nair,46,33,2
+2021,7,Royal Challengers Bengaluru,C. Reddy,72,56,0
+2021,7,Royal Challengers Bengaluru,H. Shah,42,23,0
+2021,7,Royal Challengers Bengaluru,B. Khan,71,74,0
+2021,8,Kolkata Knight Riders,D. Singh,55,50,2
+2021,8,Kolkata Knight Riders,P. Das,11,8,2
+2021,8,Kolkata Knight Riders,A. Roy,1,1,2
+2021,8,Mumbai Indians,S. Patel,70,45,1
+2021,8,Mumbai Indians,M. Rao,59,49,2
+2021,8,Mumbai Indians,K. Nair,17,13,1
+2021,9,Rajasthan Royals,N. Mehta,23,12,1
+2021,9,Rajasthan Royals,T. Joshi,43,28,0
+2021,9,Rajasthan Royals,S. Jain,6,6,2
+2021,9,Chennai Super Kings,A. Kumar,85,57,0
+2021,9,Chennai Super Kings,R. Iyer,14,11,0
+2021,9,Chennai Super Kings,V. Sharma,78,84,0
+2021,10,Chennai Super Kings,A. Kumar,51,32,1
+2021,10,Chennai Super Kings,R. Iyer,7,4,0
+2021,10,Chennai Super Kings,V. Sharma,24,13,0
+2021,10,Rajasthan Royals,N. Mehta,34,31,2
+2021,10,Rajasthan Royals,T. Joshi,74,46,1
+2021,10,Rajasthan Royals,S. Jain,51,29,2
+2021,11,Kolkata Knight Riders,D. Singh,41,38,0
+2021,11,Kolkata Knight Riders,P. Das,16,12,0
+2021,11,Kolkata Knight Riders,A. Roy,63,39,1
+2021,11,Chennai Super Kings,A. Kumar,15,15,0
+2021,11,Chennai Super Kings,R. Iyer,53,50,0
+2021,11,Chennai Super Kings,V. Sharma,61,55,0
+2021,12,Royal Challengers Bengaluru,C. Reddy,10,8,2
+2021,12,Royal Challengers Bengaluru,H. Shah,49,31,2
+2021,12,Royal Challengers Bengaluru,B. Khan,19,13,0
+2021,12,Sunrisers Hyderabad,F. Ali,21,15,0
+2021,12,Sunrisers Hyderabad,G. Menon,63,39,0
+2021,12,Sunrisers Hyderabad,L. Thomas,52,67,0
+2021,13,Mumbai Indians,S. Patel,70,66,1
+2021,13,Mumbai Indians,M. Rao,64,40,0
+2021,13,Mumbai Indians,K. Nair,31,24,2
+2021,13,Sunrisers Hyderabad,F. Ali,24,21,0
+2021,13,Sunrisers Hyderabad,G. Menon,42,33,1
+2021,13,Sunrisers Hyderabad,L. Thomas,11,6,1
+2021,14,Mumbai Indians,S. Patel,9,8,1
+2021,14,Mumbai Indians,M. Rao,41,47,0
+2021,14,Mumbai Indians,K. Nair,34,32,0
+2021,14,Sunrisers Hyderabad,F. Ali,73,57,0
+2021,14,Sunrisers Hyderabad,G. Menon,55,67,0
+2021,14,Sunrisers Hyderabad,L. Thomas,30,31,2
+2021,15,Kolkata Knight Riders,D. Singh,10,9,0
+2021,15,Kolkata Knight Riders,P. Das,40,56,2
+2021,15,Kolkata Knight Riders,A. Roy,74,96,1
+2021,15,Rajasthan Royals,N. Mehta,51,43,0
+2021,15,Rajasthan Royals,T. Joshi,38,31,0
+2021,15,Rajasthan Royals,S. Jain,53,56,0
+2021,16,Kolkata Knight Riders,D. Singh,9,7,0
+2021,16,Kolkata Knight Riders,P. Das,45,30,0
+2021,16,Kolkata Knight Riders,A. Roy,74,60,1
+2021,16,Mumbai Indians,S. Patel,82,102,0
+2021,16,Mumbai Indians,M. Rao,55,35,0
+2021,16,Mumbai Indians,K. Nair,51,45,0
+2021,17,Sunrisers Hyderabad,F. Ali,27,16,1
+2021,17,Sunrisers Hyderabad,G. Menon,1,1,1
+2021,17,Sunrisers Hyderabad,L. Thomas,83,67,0
+2021,17,Mumbai Indians,S. Patel,63,85,1
+2021,17,Mumbai Indians,M. Rao,16,17,0
+2021,17,Mumbai Indians,K. Nair,18,24,0
+2021,18,Kolkata Knight Riders,D. Singh,37,22,0
+2021,18,Kolkata Knight Riders,P. Das,68,65,1
+2021,18,Kolkata Knight Riders,A. Roy,66,66,2
+2021,18,Rajasthan Royals,N. Mehta,4,2,0
+2021,18,Rajasthan Royals,T. Joshi,68,67,2
+2021,18,Rajasthan Royals,S. Jain,9,6,0
+2022,19,Kolkata Knight Riders,D. Singh,27,17,0
+2022,19,Kolkata Knight Riders,P. Das,5,4,1
+2022,19,Kolkata Knight Riders,A. Roy,57,53,1
+2022,19,Royal Challengers Bengaluru,C. Reddy,46,25,0
+2022,19,Royal Challengers Bengaluru,H. Shah,76,47,0
+2022,19,Royal Challengers Bengaluru,B. Khan,44,34,0
+2022,20,Rajasthan Royals,N. Mehta,50,28,1
+2022,20,Rajasthan Royals,T. Joshi,18,12,2
+2022,20,Rajasthan Royals,S. Jain,56,74,0
+2022,20,Chennai Super Kings,A. Kumar,2,1,0
+2022,20,Chennai Super Kings,R. Iyer,12,14,0
+2022,20,Chennai Super Kings,V. Sharma,39,24,0
+2022,21,Kolkata Knight Riders,D. Singh,55,68,0
+2022,21,Kolkata Knight Riders,P. Das,81,67,0
+2022,21,Kolkata Knight Riders,A. Roy,68,44,1
+2022,21,Royal Challengers Bengaluru,C. Reddy,7,4,0
+2022,21,Royal Challengers Bengaluru,H. Shah,68,48,0
+2022,21,Royal Challengers Bengaluru,B. Khan,77,44,2
+2022,22,Sunrisers Hyderabad,F. Ali,4,2,2
+2022,22,Sunrisers Hyderabad,G. Menon,25,15,1
+2022,22,Sunrisers Hyderabad,L. Thomas,10,12,1
+2022,22,Mumbai Indians,S. Patel,7,5,1
+2022,22,Mumbai Indians,M. Rao,52,32,0
+2022,22,Mumbai Indians,K. Nair,73,75,2
+2022,23,Sunrisers Hyderabad,F. Ali,42,26,0
+2022,23,Sunrisers Hyderabad,G. Menon,60,57,0
+2022,23,Sunrisers Hyderabad,L. Thomas,79,97,0
+2022,23,Rajasthan Royals,N. Mehta,67,55,1
+2022,23,Rajasthan Royals,T. Joshi,55,49,1
+2022,23,Rajasthan Royals,S. Jain,79,104,0
+2022,24,Mumbai Indians,S. Patel,33,19,0
+2022,24,Mumbai Indians,M. Rao,54,48,0
+2022,24,Mumbai Indians,K. Nair,68,51,0
+2022,24,Chennai Super Kings,A. Kumar,3,2,0
+2022,24,Chennai Super Kings,R. Iyer,75,71,0
+2022,24,Chennai Super Kings,V. Sharma,45,33,0
+2022,25,Royal Challengers Bengaluru,C. Reddy,57,69,0
+2022,25,Royal Challengers Bengaluru,H. Shah,17,14,0
+2022,25,Royal Challengers Bengaluru,B. Khan,56,32,0
+2022,25,Mumbai Indians,S. Patel,0,1,1
+2022,25,Mumbai Indians,M. Rao,84,57,0
+2022,25,Mumbai Indians,K. Nair,35,38,0
+2022,26,Sunrisers Hyderabad,F. Ali,19,15,1
+2022,26,Sunrisers Hyderabad,G. Menon,46,46,1
+2022,26,Sunrisers Hyderabad,L. Thomas,60,75,0
+2022,26,Chennai Super Kings,A. Kumar,31,24,0
+2022,26,Chennai Super Kings,R. Iyer,13,13,2
+2022,26,Chennai Super Kings,V. Sharma,32,30,0
+2022,27,Royal Challengers Bengaluru,C. Reddy,34,22,2
+2022,27,Royal Challengers Bengaluru,H. Shah,27,28,0
+2022,27,Royal Challengers Bengaluru,B. Khan,45,54,0
+2022,27,Rajasthan Royals,N. Mehta,24,22,0
+2022,27,Rajasthan Royals,T. Joshi,29,31,0
+2022,27,Rajasthan Royals,S. Jain,20,12,2
+2022,28,Royal Challengers Bengaluru,C. Reddy,4,2,1
+2022,28,Royal Challengers Bengaluru,H. Shah,52,44,2
+2022,28,Royal Challengers Bengaluru,B. Khan,69,56,0
+2022,28,Sunrisers Hyderabad,F. Ali,3,3,2
+2022,28,Sunrisers Hyderabad,G. Menon,21,20,2
+2022,28,Sunrisers Hyderabad,L. Thomas,48,33,0
+2022,29,Kolkata Knight Riders,D. Singh,43,24,0
+2022,29,Kolkata Knight Riders,P. Das,62,64,1
+2022,29,Kolkata Knight Riders,A. Roy,37,26,1
+2022,29,Mumbai Indians,S. Patel,27,30,2
+2022,29,Mumbai Indians,M. Rao,54,31,0
+2022,29,Mumbai Indians,K. Nair,59,45,0
+2022,30,Sunrisers Hyderabad,F. Ali,41,55,0
+2022,30,Sunrisers Hyderabad,G. Menon,12,15,2
+2022,30,Sunrisers Hyderabad,L. Thomas,14,11,0
+2022,30,Royal Challengers Bengaluru,C. Reddy,47,53,2
+2022,30,Royal Challengers Bengaluru,H. Shah,60,57,0
+2022,30,Royal Challengers Bengaluru,B. Khan,56,34,1
+2022,31,Mumbai Indians,S. Patel,3,1,2
+2022,31,Mumbai Indians,M. Rao,24,15,0
+2022,31,Mumbai Indians,K. Nair,52,38,1
+2022,31,Royal Challengers Bengaluru,C. Reddy,35,25,2
+2022,31,Royal Challengers Bengaluru,H. Shah,22,20,0
+2022,31,Royal Challengers Bengaluru,B. Khan,84,79,0
+2022,32,Kolkata Knight Riders,D. Singh,57,50,0
+2022,32,Kolkata Knight Riders,P. Das,66,42,1
+2022,32,Kolkata Knight Riders,A. Roy,43,60,0
+2022,32,Chennai Super Kings,A. Kumar,61,60,2
+2022,32,Chennai Super Kings,R. Iyer,81,57,0
+2022,32,Chennai Super Kings,V. Sharma,65,59,0
+2022,33,Sunrisers Hyderabad,F. Ali,3,2,1
+2022,33,Sunrisers Hyderabad,G. Menon,4,3,0
+2022,33,Sunrisers Hyderabad,L. Thomas,78,48,2
+2022,33,Mumbai Indians,S. Patel,82,49,0
+2022,33,Mumbai Indians,M. Rao,64,63,2
+2022,33,Mumbai Indians,K. Nair,7,9,0
+2022,34,Chennai Super Kings,A. Kumar,57,76,0
+2022,34,Chennai Super Kings,R. Iyer,11,7,2
+2022,34,Chennai Super Kings,V. Sharma,47,63,0
+2022,34,Royal Challengers Bengaluru,C. Reddy,65,41,0
+2022,34,Royal Challengers Bengaluru,H. Shah,71,47,2
+2022,34,Royal Challengers Bengaluru,B. Khan,1,1,0
+2022,35,Kolkata Knight Riders,D. Singh,69,51,2
+2022,35,Kolkata Knight Riders,P. Das,19,18,2
+2022,35,Kolkata Knight Riders,A. Roy,21,17,2
+2022,35,Royal Challengers Bengaluru,C. Reddy,83,50,0
+2022,35,Royal Challengers Bengaluru,H. Shah,21,26,0
+2022,35,Royal Challengers Bengaluru,B. Khan,25,15,0
+2022,36,Royal Challengers Bengaluru,C. Reddy,8,4,2
+2022,36,Royal Challengers Bengaluru,H. Shah,57,42,0
+2022,36,Royal Challengers Bengaluru,B. Khan,12,8,0
+2022,36,Kolkata Knight Riders,D. Singh,62,54,2
+2022,36,Kolkata Knight Riders,P. Das,0,1,1
+2022,36,Kolkata Knight Riders,A. Roy,25,18,0
+2023,37,Chennai Super Kings,A. Kumar,78,48,0
+2023,37,Chennai Super Kings,R. Iyer,23,15,2
+2023,37,Chennai Super Kings,V. Sharma,76,82,0
+2023,37,Sunrisers Hyderabad,F. Ali,34,20,0
+2023,37,Sunrisers Hyderabad,G. Menon,25,25,0
+2023,37,Sunrisers Hyderabad,L. Thomas,46,35,0
+2023,38,Royal Challengers Bengaluru,C. Reddy,80,64,0
+2023,38,Royal Challengers Bengaluru,H. Shah,80,61,1
+2023,38,Royal Challengers Bengaluru,B. Khan,42,31,2
+2023,38,Kolkata Knight Riders,D. Singh,31,32,0
+2023,38,Kolkata Knight Riders,P. Das,49,27,0
+2023,38,Kolkata Knight Riders,A. Roy,21,23,1
+2023,39,Sunrisers Hyderabad,F. Ali,34,21,0
+2023,39,Sunrisers Hyderabad,G. Menon,43,33,0
+2023,39,Sunrisers Hyderabad,L. Thomas,37,30,1
+2023,39,Royal Challengers Bengaluru,C. Reddy,67,58,0
+2023,39,Royal Challengers Bengaluru,H. Shah,27,36,0
+2023,39,Royal Challengers Bengaluru,B. Khan,73,55,0
+2023,40,Mumbai Indians,S. Patel,6,6,0
+2023,40,Mumbai Indians,M. Rao,27,16,0
+2023,40,Mumbai Indians,K. Nair,66,56,0
+2023,40,Sunrisers Hyderabad,F. Ali,31,36,2
+2023,40,Sunrisers Hyderabad,G. Menon,18,16,0
+2023,40,Sunrisers Hyderabad,L. Thomas,27,25,1
+2023,41,Royal Challengers Bengaluru,C. Reddy,10,8,0
+2023,41,Royal Challengers Bengaluru,H. Shah,47,48,0
+2023,41,Royal Challengers Bengaluru,B. Khan,18,12,1
+2023,41,Chennai Super Kings,A. Kumar,4,5,1
+2023,41,Chennai Super Kings,R. Iyer,85,112,0
+2023,41,Chennai Super Kings,V. Sharma,73,94,2
+2023,42,Rajasthan Royals,N. Mehta,35,20,0
+2023,42,Rajasthan Royals,T. Joshi,55,44,0
+2023,42,Rajasthan Royals,S. Jain,3,1,0
+2023,42,Mumbai Indians,S. Patel,28,33,0
+2023,42,Mumbai Indians,M. Rao,21,15,0
+2023,42,Mumbai Indians,K. Nair,54,44,2
+2023,43,Mumbai Indians,S. Patel,29,39,0
+2023,43,Mumbai Indians,M. Rao,75,87,0
+2023,43,Mumbai Indians,K. Nair,43,30,0
+2023,43,Chennai Super Kings,A. Kumar,69,45,0
+2023,43,Chennai Super Kings,R. Iyer,61,44,0
+2023,43,Chennai Super Kings,V. Sharma,22,13,1
+2023,44,Chennai Super Kings,A. Kumar,29,18,0
+2023,44,Chennai Super Kings,R. Iyer,35,21,1
+2023,44,Chennai Super Kings,V. Sharma,81,50,0
+2023,44,Royal Challengers Bengaluru,C. Reddy,70,47,0
+2023,44,Royal Challengers Bengaluru,H. Shah,57,67,1
+2023,44,Royal Challengers Bengaluru,B. Khan,58,32,1
+2023,45,Chennai Super Kings,A. Kumar,83,60,0
+2023,45,Chennai Super Kings,R. Iyer,37,44,0
+2023,45,Chennai Super Kings,V. Sharma,25,17,2
+2023,45,Sunrisers Hyderabad,F. Ali,2,1,0
+2023,45,Sunrisers Hyderabad,G. Menon,23,14,0
+2023,45,Sunrisers Hyderabad,L. Thomas,47,43,0
+2023,46,Kolkata Knight Riders,D. Singh,81,82,1
+2023,46,Kolkata Knight Riders,P. Das,38,29,2
+2023,46,Kolkata Knight Riders,A. Roy,31,24,0
+2023,46,Rajasthan Royals,N. Mehta,74,55,2
+2023,46,Rajasthan Royals,T. Joshi,35,20,0
+2023,46,Rajasthan Royals,S. Jain,83,66,1
+2023,47,Mumbai Indians,S. Patel,5,4,0
+2023,47,Mumbai Indians,M. Rao,10,9,2
+2023,47,Mumbai Indians,K. Nair,48,53,0
+2023,47,Chennai Super Kings,A. Kumar,7,8,2
+2023,47,Chennai Super Kings,R. Iyer,58,35,0
+2023,47,Chennai Super Kings,V. Sharma,67,52,0
+2023,48,Kolkata Knight Riders,D. Singh,62,43,0
+2023,48,Kolkata Knight Riders,P. Das,39,21,1
+2023,48,Kolkata Knight Riders,A. Roy,78,49,0
+2023,48,Chennai Super Kings,A. Kumar,20,20,2
+2023,48,Chennai Super Kings,R. Iyer,28,29,2
+2023,48,Chennai Super Kings,V. Sharma,40,47,0
+2023,49,Chennai Super Kings,A. Kumar,84,96,2
+2023,49,Chennai Super Kings,R. Iyer,37,31,0
+2023,49,Chennai Super Kings,V. Sharma,81,45,1
+2023,49,Sunrisers Hyderabad,F. Ali,78,50,0
+2023,49,Sunrisers Hyderabad,G. Menon,50,71,1
+2023,49,Sunrisers Hyderabad,L. Thomas,59,34,2
+2023,50,Kolkata Knight Riders,D. Singh,48,46,0
+2023,50,Kolkata Knight Riders,P. Das,6,3,0
+2023,50,Kolkata Knight Riders,A. Roy,27,19,2
+2023,50,Rajasthan Royals,N. Mehta,72,45,0
+2023,50,Rajasthan Royals,T. Joshi,53,44,1
+2023,50,Rajasthan Royals,S. Jain,34,26,0
+2023,51,Kolkata Knight Riders,D. Singh,26,20,0
+2023,51,Kolkata Knight Riders,P. Das,78,61,2
+2023,51,Kolkata Knight Riders,A. Roy,53,61,0
+2023,51,Rajasthan Royals,N. Mehta,25,28,1
+2023,51,Rajasthan Royals,T. Joshi,25,32,0
+2023,51,Rajasthan Royals,S. Jain,85,95,0
+2023,52,Sunrisers Hyderabad,F. Ali,58,34,0
+2023,52,Sunrisers Hyderabad,G. Menon,21,15,1
+2023,52,Sunrisers Hyderabad,L. Thomas,36,20,0
+2023,52,Kolkata Knight Riders,D. Singh,28,22,1
+2023,52,Kolkata Knight Riders,P. Das,55,31,0
+2023,52,Kolkata Knight Riders,A. Roy,1,1,1
+2023,53,Kolkata Knight Riders,D. Singh,36,37,0
+2023,53,Kolkata Knight Riders,P. Das,24,30,2
+2023,53,Kolkata Knight Riders,A. Roy,34,25,1
+2023,53,Chennai Super Kings,A. Kumar,37,22,0
+2023,53,Chennai Super Kings,R. Iyer,65,56,0
+2023,53,Chennai Super Kings,V. Sharma,80,78,0
+2023,54,Chennai Super Kings,A. Kumar,9,9,0
+2023,54,Chennai Super Kings,R. Iyer,37,27,1
+2023,54,Chennai Super Kings,V. Sharma,61,73,0
+2023,54,Sunrisers Hyderabad,F. Ali,20,26,0
+2023,54,Sunrisers Hyderabad,G. Menon,11,6,1
+2023,54,Sunrisers Hyderabad,L. Thomas,59,73,1
+2024,55,Kolkata Knight Riders,D. Singh,33,26,0
+2024,55,Kolkata Knight Riders,P. Das,85,78,1
+2024,55,Kolkata Knight Riders,A. Roy,53,53,0
+2024,55,Rajasthan Royals,N. Mehta,4,2,0
+2024,55,Rajasthan Royals,T. Joshi,66,52,0
+2024,55,Rajasthan Royals,S. Jain,17,14,2
+2024,56,Chennai Super Kings,A. Kumar,85,97,0
+2024,56,Chennai Super Kings,R. Iyer,29,27,0
+2024,56,Chennai Super Kings,V. Sharma,84,62,0
+2024,56,Rajasthan Royals,N. Mehta,75,48,0
+2024,56,Rajasthan Royals,T. Joshi,60,51,0
+2024,56,Rajasthan Royals,S. Jain,41,35,0
+2024,57,Chennai Super Kings,A. Kumar,62,36,2
+2024,57,Chennai Super Kings,R. Iyer,34,19,0
+2024,57,Chennai Super Kings,V. Sharma,57,39,0
+2024,57,Royal Challengers Bengaluru,C. Reddy,50,51,0
+2024,57,Royal Challengers Bengaluru,H. Shah,8,6,0
+2024,57,Royal Challengers Bengaluru,B. Khan,42,32,0
+2024,58,Kolkata Knight Riders,D. Singh,12,6,2
+2024,58,Kolkata Knight Riders,P. Das,28,18,0
+2024,58,Kolkata Knight Riders,A. Roy,62,39,0
+2024,58,Royal Challengers Bengaluru,C. Reddy,66,44,0
+2024,58,Royal Challengers Bengaluru,H. Shah,51,31,0
+2024,58,Royal Challengers Bengaluru,B. Khan,81,68,0
+2024,59,Chennai Super Kings,A. Kumar,53,42,2
+2024,59,Chennai Super Kings,R. Iyer,80,107,2
+2024,59,Chennai Super Kings,V. Sharma,54,37,0
+2024,59,Mumbai Indians,S. Patel,38,39,0
+2024,59,Mumbai Indians,M. Rao,0,1,2
+2024,59,Mumbai Indians,K. Nair,46,41,1
+2024,60,Royal Challengers Bengaluru,C. Reddy,7,9,2
+2024,60,Royal Challengers Bengaluru,H. Shah,57,79,0
+2024,60,Royal Challengers Bengaluru,B. Khan,28,33,0
+2024,60,Sunrisers Hyderabad,F. Ali,3,3,2
+2024,60,Sunrisers Hyderabad,G. Menon,61,36,0
+2024,60,Sunrisers Hyderabad,L. Thomas,49,30,1
+2024,61,Mumbai Indians,S. Patel,11,8,0
+2024,61,Mumbai Indians,M. Rao,8,9,0
+2024,61,Mumbai Indians,K. Nair,57,63,1
+2024,61,Kolkata Knight Riders,D. Singh,48,43,0
+2024,61,Kolkata Knight Riders,P. Das,4,2,1
+2024,61,Kolkata Knight Riders,A. Roy,78,53,2
+2024,62,Sunrisers Hyderabad,F. Ali,28,20,0
+2024,62,Sunrisers Hyderabad,G. Menon,60,34,0
+2024,62,Sunrisers Hyderabad,L. Thomas,62,41,2
+2024,62,Chennai Super Kings,A. Kumar,26,22,1
+2024,62,Chennai Super Kings,R. Iyer,17,19,0
+2024,62,Chennai Super Kings,V. Sharma,28,34,2
+2024,63,Kolkata Knight Riders,D. Singh,63,49,0
+2024,63,Kolkata Knight Riders,P. Das,20,19,1
+2024,63,Kolkata Knight Riders,A. Roy,51,30,0
+2024,63,Sunrisers Hyderabad,F. Ali,72,45,2
+2024,63,Sunrisers Hyderabad,G. Menon,81,66,2
+2024,63,Sunrisers Hyderabad,L. Thomas,13,14,0
+2024,64,Rajasthan Royals,N. Mehta,80,91,0
+2024,64,Rajasthan Royals,T. Joshi,43,25,1
+2024,64,Rajasthan Royals,S. Jain,30,28,2
+2024,64,Mumbai Indians,S. Patel,68,65,1
+2024,64,Mumbai Indians,M. Rao,85,59,2
+2024,64,Mumbai Indians,K. Nair,24,15,0
+2024,65,Kolkata Knight Riders,D. Singh,49,33,1
+2024,65,Kolkata Knight Riders,P. Das,34,47,2
+2024,65,Kolkata Knight Riders,A. Roy,67,73,0
+2024,65,Royal Challengers Bengaluru,C. Reddy,71,54,1
+2024,65,Royal Challengers Bengaluru,H. Shah,74,47,1
+2024,65,Royal Challengers Bengaluru,B. Khan,25,15,0
+2024,66,Mumbai Indians,S. Patel,48,31,1
+2024,66,Mumbai Indians,M. Rao,44,42,2
+2024,66,Mumbai Indians,K. Nair,50,63,0
+2024,66,Rajasthan Royals,N. Mehta,32,29,0
+2024,66,Rajasthan Royals,T. Joshi,70,82,0
+2024,66,Rajasthan Royals,S. Jain,53,50,0
+2024,67,Rajasthan Royals,N. Mehta,55,34,0
+2024,67,Rajasthan Royals,T. Joshi,79,45,2
+2024,67,Rajasthan Royals,S. Jain,83,56,1
+2024,67,Chennai Super Kings,A. Kumar,2,1,0
+2024,67,Chennai Super Kings,R. Iyer,85,52,0
+2024,67,Chennai Super Kings,V. Sharma,53,51,2
+2024,68,Rajasthan Royals,N. Mehta,36,30,0
+2024,68,Rajasthan Royals,T. Joshi,62,53,0
+2024,68,Rajasthan Royals,S. Jain,48,60,0
+2024,68,Mumbai Indians,S. Patel,75,43,0
+2024,68,Mumbai Indians,M. Rao,67,47,0
+2024,68,Mumbai Indians,K. Nair,56,36,0
+2024,69,Rajasthan Royals,N. Mehta,58,56,0
+2024,69,Rajasthan Royals,T. Joshi,46,30,0
+2024,69,Rajasthan Royals,S. Jain,9,8,0
+2024,69,Kolkata Knight Riders,D. Singh,47,33,1
+2024,69,Kolkata Knight Riders,P. Das,45,25,0
+2024,69,Kolkata Knight Riders,A. Roy,27,30,0
+2024,70,Sunrisers Hyderabad,F. Ali,30,17,0
+2024,70,Sunrisers Hyderabad,G. Menon,8,7,2
+2024,70,Sunrisers Hyderabad,L. Thomas,46,62,0
+2024,70,Mumbai Indians,S. Patel,28,20,1
+2024,70,Mumbai Indians,M. Rao,48,31,0
+2024,70,Mumbai Indians,K. Nair,66,64,0
+2024,71,Chennai Super Kings,A. Kumar,52,52,0
+2024,71,Chennai Super Kings,R. Iyer,9,8,0
+2024,71,Chennai Super Kings,V. Sharma,18,15,0
+2024,71,Royal Challengers Bengaluru,C. Reddy,7,4,2
+2024,71,Royal Challengers Bengaluru,H. Shah,27,24,0
+2024,71,Royal Challengers Bengaluru,B. Khan,35,22,0
+2024,72,Chennai Super Kings,A. Kumar,62,49,0
+2024,72,Chennai Super Kings,R. Iyer,77,71,1
+2024,72,Chennai Super Kings,V. Sharma,69,41,1
+2024,72,Kolkata Knight Riders,D. Singh,2,2,2
+2024,72,Kolkata Knight Riders,P. Das,37,38,0
+2024,72,Kolkata Knight Riders,A. Roy,76,53,2

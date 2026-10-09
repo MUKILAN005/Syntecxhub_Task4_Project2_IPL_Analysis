@@ -1,0 +1,73 @@
+MatchID,Season,MatchNumber,Team1,Team2,Winner,TossDecision
+1,2021,1,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Field first
+2,2021,2,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat first
+3,2021,3,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Field first
+4,2021,4,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field first
+5,2021,5,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Field first
+6,2021,6,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field first
+7,2021,7,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field first
+8,2021,8,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Field first
+9,2021,9,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field first
+10,2021,10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat first
+11,2021,11,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Field first
+12,2021,12,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Field first
+13,2021,13,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Field first
+14,2021,14,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Field first
+15,2021,15,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field first
+16,2021,16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Field first
+17,2021,17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field first
+18,2021,18,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Bat first
+19,2022,1,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field first
+20,2022,2,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat first
+21,2022,3,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Bat first
+22,2022,4,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Field first
+23,2022,5,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat first
+24,2022,6,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Bat first
+25,2022,7,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Field first
+26,2022,8,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field first
+27,2022,9,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Field first
+28,2022,10,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Field first
+29,2022,11,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Bat first
+30,2022,12,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Bat first
+31,2022,13,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Field first
+32,2022,14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field first
+33,2022,15,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat first
+34,2022,16,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Bat first
+35,2022,17,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field first
+36,2022,18,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Bat first
+37,2023,1,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field first
+38,2023,2,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Bat first
+39,2023,3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Bat first
+40,2023,4,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field first
+41,2023,5,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Field first
+42,2023,6,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field first
+43,2023,7,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Bat first
+44,2023,8,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Field first
+45,2023,9,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Bat first
+46,2023,10,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Bat first
+47,2023,11,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Field first
+48,2023,12,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field first
+49,2023,13,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Bat first
+50,2023,14,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Bat first
+51,2023,15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Field first
+52,2023,16,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Bat first
+53,2023,17,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Bat first
+54,2023,18,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Field first
+55,2024,1,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field first
+56,2024,2,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Bat first
+57,2024,3,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Field first
+58,2024,4,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field first
+59,2024,5,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Bat first
+60,2024,6,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Field first
+61,2024,7,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Bat first
+62,2024,8,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field first
+63,2024,9,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat first
+64,2024,10,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field first
+65,2024,11,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Bat first
+66,2024,12,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field first
+67,2024,13,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat first
+68,2024,14,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat first
+69,2024,15,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Field first
+70,2024,16,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Bat first
+71,2024,17,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Bat first
+72,2024,18,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat first
